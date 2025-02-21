@@ -1798,6 +1798,276 @@
     },
     {
       "categoria": "Regolamenti",
+      "testo": "le tariffe e le condizioni di trasporto del servizio taxi sono determinate:",
+      "opzioni": [
+        "dalla Giunta comunale",
+        "dalla Giunta provinciale",
+        "dal Dirigente del Settore Trasporti e Mobilità del Comune di Milano"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "la licenza dell'esercizio del servizio taxi è rilasciata da:",
+      "opzioni": [
+        "Direttore del Settore Trasporto Pubblico della Provincia di Milano",
+        "Consiglio Comunale",
+        "Dirigente del Settore Trasporti e Mobilità del Comune di Milano"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "la licenza d'esercizio può essere revocata da:",
+      "opzioni": [
+        "Comune",
+        "Provincia",
+        "Regione"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "i conducenti di taxi al termine della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "recapitare ad altro indirizzo il bagaglio dell'utente con pagamento anticipato della corsa",
+        "accertare che l'utente non abbia smarrito alcun oggetto all'interno dell'autovettura",
+        "appropriarsi di qualsiasi oggetto smarrito all'interno dell'autovettura"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "qual è la colorazione delle autovetture adibite al servizio taxi? (art.2a)",
+      "opzioni": [
+        "quella determinata dalle disposizioni di legge vigenti in materia",
+        "Gialla",
+        "quella determinata dal regolamento regionale"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "le autovetture adibite al servizio taxi possono recare stemmi identificativi del comune? (art.2b)",
+      "opzioni": [
+        "si , solo nella parte posteriore",
+        "si , solo nella parte anteriore",
+        "si , solo sulle portiere laterali"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "lo stampato contenente le tariffe da chi viene fornito? (art.5)",
+      "opzioni": [
+        "dal Comune",
+        "dalla Provincia",
+        "dalla Regione"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "dove deve essere posto il tassametro? (art.6)",
+      "opzioni": [
+        "in posizione ben visibile da parte degli utenti",
+        "al di sotto della lato superiore del piantone dello sterzo",
+        "sulla parte superiore del parabrezza"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "i sigilli di garanzia applicati all'impianto tassametrico da chi vengono apposti?",
+      "opzioni": [
+        "dall'Ufficio Comunale competente",
+        "dall'Ufficio periferico del Dipartimento dei Trasporti Terrestri",
+        "dal competente Settore della Provincia di Milano"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "è possibile utilizzare un'autovettura adibita a servizio taxi per uso proprio? (art.27)",
+      "opzioni": [
+        "no , mai",
+        "si , con specifico nulla osta dell'Amministratore comunale",
+        "si , se è fuori servizio"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "quando l'autopubblica è fuori servizio può eccezionalmente effettuare alcune corse? (art.27)",
+      "opzioni": [
+        "no , mai",
+        "si , se è richiesto dalle Forze dell'ordine",
+        "si , in caso di necessità"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "il servizio taxi ha lo scopo di soddisfare le richieste individuali? (art.1)",
+      "opzioni": [
+        "si",
+        "no , può essere richiesto anche da piccoli gruppi",
+        "si , perché è vietato trasportare persone con diversa direttrice e diversa destinazione"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "il servizio taxi può essere svolto solamente con autovetture da piazza? ( art.1)",
+      "opzioni": [
+        "si",
+        "no , può essere svolto anche con minibus",
+        "no , può essere svolto anche con minibus ma con autorizzazione comunale"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "qual è lo scopo del servizio taxi? (art.1)",
+      "opzioni": [
+        "quello di soddisfare esigenze di trasporto individuale",
+        "quello di soddisfare esigenze di trasporto individuale o di piccoli gruppi",
+        "quello di soddisfare esigenze di trasporto di qualsiasi genere , anche con contrato di noleggio"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "chi può essere titolare di licenza per l'esercizio del servizio taxi? (art.9)",
+      "opzioni": [
+        "la persona singola",
+        "la persona giuridica",
+        "qualsiasi società di capitali"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "come viene assegnata la licenza per l'esercizio del servizio taxi? (art.9)",
+      "opzioni": [
+        "mediante concorso pubblico",
+        "mediante iscrizione al ruolo conducenti",
+        "a seguito di denuncia di inizio del servizio"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "come viene assegnata l'autorizzazione per il servizio di noleggio con conducente? (art.6)",
+      "opzioni": [
+        "mediante concorso pubblico",
+        "mediante iscrizione al ruolo dei conducenti",
+        "a seguito di denuncia di inizio del servizio"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "tra i requisiti per l'assegnazione di licenza taxi è previsto quello di: (art.9)",
+      "opzioni": [
+        "essere già stato in passato titolare di licenza taxi o di autorizzazione per il servizio di autonoleggio da rimessa con conducente a mezzo autovettura",
+        "non essere titolare contemporaneamente di altra autorizzazione o concessione amministrativa",
+        "avere presentato istanza presso la Provincia di Milano per sostenere l'esame per l'iscrizione al ruolo dei conducenti"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "tra i requisiti per l'assegnazione di licenza taxi è previsto quello di: (art.9)",
+      "opzioni": [
+        "non essere già stato in passato titolare di licenza taxi o di autorizzazione per il servizio di autonoleggio da rimessa con conducente a mezzo autovettura",
+        "avere un'età superiore ai 55 anni",
+        "avere presentato istanza presso la Provincia di Milano per sostenere l'esame per l'iscrizione al ruolo dei conducenti"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "la licenza taxi può essere trasferita se il titolare si trova in una delle seguenti condizioni: (art.10)",
+      "opzioni": [
+        "è titolare di licenza da almeno quattro anni",
+        "ha raggiunto il sessantesimo anno d'età",
+        "ha raggiunto il cinquantacinquesimo anno d'età"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "l'autorizzazione per l'esercizio del servizio di autonoleggio con conducente può essere trasferita se il titolare si trova in una delle seguenti condizioni: (art.7)",
+      "opzioni": [
+        "è titolare di autorizzazione da cinque anni",
+        "ha raggiunto il cinquantacinquesimo anno d'età",
+        "non aver raggiunto il sessantesimo anno d'età"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "in caso di morte del titolare , a chi può essere trasferita la licenza taxi? (art.11)",
+      "opzioni": [
+        "ad uno degli eredi appartenenti al nucleo familiare del defunto",
+        "ai soli figli maggiorenni , anche se non ancora in possesso del CAP",
+        "a qualsiasi erede in linea indiretta"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "qual è l'autorità che consente il rinnovo dell'autorizzazione per l'esercizio del servizio di autonoleggio con conducente? (art.8)",
+      "opzioni": [
+        "la Provincia",
+        "la Regione",
+        "il Comune"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "i titolari di licenza taxi possono essere sostituiti alla guida? (art.16)",
+      "opzioni": [
+        "si , solo temporaneamente e per motivi specifici",
+        "si , solo definitivamente",
+        "no , mai"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "come viene regolato il rapporto di lavoro tra il taxista ed il sostituto alla guida? (art.16)",
+      "opzioni": [
+        "con un contratto di prestazione d'opera",
+        "con un contratto di lavoro a tempo determinato o con un contratto di gestione per un termine non superiore a sei mesi",
+        "la gestione avviene in modo informale"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "dove avviene la sosta delle autopubbliche in turno di servizio? (art.23)",
+      "opzioni": [
+        "nella propria rimessa",
+        "liberamente , secondo quanto stabilito dal codice della strada",
+        "negli appositi posteggi"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamenti",
+      "testo": "tra i contrassegni che contraddistinguono il servizio di autonoleggio con conducente vi è: (art.15)",
+      "opzioni": [
+        "sul lunotto posteriore , in modo interamente visibile , quello con la scritta \"NOLEGGIO\"",
+        "la scritta \"NOLEGGIO\" dipinta sulla fiancata destra",
+        "un contrassegno luminoso , posto sul tetto , con la scritta \"NCC\""
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamenti",
       "testo": "da chi è esercitata la vigilanza urbana sul servizio taxi?",
       "opzioni": [
         "dalla Prefettura",
