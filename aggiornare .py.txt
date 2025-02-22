@@ -1,6 +1,0 @@
-- da Win 
-cd c:\x\x 
-python converti_quiz.py
-
-
-- da Mac
