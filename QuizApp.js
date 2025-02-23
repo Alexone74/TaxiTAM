@@ -1,0 +1,286 @@
+// QuizApp.js
+import React, { useState, useEffect } from 'react';
+import { 
+  CheckCircle, 
+  XCircle, 
+  Home,
+  BookOpen,
+  Award,
+  ArrowRight,
+  Play,
+  RefreshCw
+} from 'lucide-react';
+
+export const QuizApp = () => {
+  const [screen, setScreen] = useState('home');
+  const [quizData, setQuizData] = useState(null);
+  const [selectedQuestions, setSelectedQuestions] = useState([]);
+  const [currentQuestion, setCurrentQuestion] = useState(0);
+  const [score, setScore] = useState(0);
+  const [answerGiven, setAnswerGiven] = useState(false);
+  const [wrongQuestions, setWrongQuestions] = useState([]);
+  const [reviewMode, setReviewMode] = useState(false);
+  const [selectedCategories, setSelectedCategories] = useState([]);
+  const [selectedAnswer, setSelectedAnswer] = useState(null);
+
+  useEffect(() => {
+    fetch('quiz.json')
+      .then(response => response.json())
+      .then(data => setQuizData(data))
+      .catch(error => console.error('Error loading quiz:', error));
+  }, []);
+
+  const startQuiz = () => {
+    if (selectedCategories.length === 0) {
+      alert('Seleziona almeno una categoria!');
+      return;
+    }
+
+    const filteredQuestions = quizData.domande
+      .filter(q => selectedCategories.includes(q.categoria))
+      .sort(() => Math.random() - 0.5);
+
+    setSelectedQuestions(filteredQuestions);
+    setCurrentQuestion(0);
+    setScore(0);
+    setWrongQuestions([]);
+    setReviewMode(false);
+    setScreen('quiz');
+    setSelectedAnswer(null);
+  };
+
+  const checkAnswer = (selectedIndex) => {
+    if (answerGiven) return;
+
+    setAnswerGiven(true);
+    setSelectedAnswer(selectedIndex);
+    const currentQ = selectedQuestions[currentQuestion];
+
+    if (selectedIndex === currentQ.risposta_corretta) {
+      setScore(prev => prev + 1);
+    } else if (!reviewMode) {
+      setWrongQuestions(prev => [...prev, currentQ]);
+    }
+  };
+
+  const nextQuestion = () => {
+    if (currentQuestion < selectedQuestions.length - 1) {
+      setCurrentQuestion(prev => prev + 1);
+      setAnswerGiven(false);
+      setSelectedAnswer(null);
+    } else {
+      setScreen('results');
+    }
+  };
+
+  const startReview = () => {
+    setSelectedQuestions(wrongQuestions);
+    setCurrentQuestion(0);
+    setScore(0);
+    setWrongQuestions([]);
+    setReviewMode(true);
+    setScreen('quiz');
+    setAnswerGiven(false);
+    setSelectedAnswer(null);
+  };
+
+  if (!quizData) return (
+    <div className="min-h-screen bg-gradient-to-br from-indigo-600 via-purple-600 to-pink-500 flex items-center justify-center p-4">
+      <div className="animate-pulse text-white text-xl flex items-center gap-2">
+        <RefreshCw className="animate-spin" />
+        Caricamento quiz...
+      </div>
+    </div>
+  );
+
+  const getProgressBarWidth = () => {
+    return `${((currentQuestion + 1) / selectedQuestions.length) * 100}%`;
+  };
+
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-indigo-600 via-purple-600 to-pink-500 p-4 lg:p-8">
+      <div className="max-w-2xl mx-auto bg-white rounded-2xl shadow-2xl overflow-hidden backdrop-blur-xl">
+        {/* Header comune */}
+        <div className="bg-white/90 p-6 border-b border-gray-100">
+          <h1 className="text-2xl md:text-3xl font-bold text-center bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
+            Quiz Esame al Ruolo Conducenti
+          </h1>
+        </div>
+
+        {screen === 'home' && (
+          <div className="p-6 space-y-6">
+            <div className="text-center space-y-2">
+              <BookOpen size={40} className="mx-auto text-purple-600" />
+              <p className="text-gray-600">Seleziona le categorie e inizia il test</p>
+            </div>
+
+            <div className="space-y-3">
+              {quizData.categorie.map(category => (
+                <div 
+                  key={category} 
+                  className={`flex items-center p-4 rounded-xl transition-all duration-200 cursor-pointer
+                    ${selectedCategories.includes(category) 
+                      ? 'bg-indigo-50 border-2 border-indigo-500' 
+                      : 'bg-gray-50 border-2 border-transparent hover:border-indigo-300'}`}
+                  onClick={() => {
+                    setSelectedCategories(prev =>
+                      prev.includes(category)
+                        ? prev.filter(c => c !== category)
+                        : [...prev, category]
+                    );
+                  }}
+                >
+                  <input
+                    type="checkbox"
+                    id={category}
+                    className="w-5 h-5 text-indigo-600 rounded"
+                    checked={selectedCategories.includes(category)}
+                    onChange={() => {}}
+                  />
+                  <label htmlFor={category} className="ml-3 text-gray-700 font-medium flex-1 cursor-pointer">
+                    {category}
+                  </label>
+                </div>
+              ))}
+            </div>
+
+            <button
+              onClick={startQuiz}
+              className="w-full bg-gradient-to-r from-indigo-600 to-purple-600 text-white p-4 rounded-xl 
+                        font-semibold hover:opacity-90 transition-all duration-200 flex items-center justify-center gap-2"
+            >
+              <Play size={20} />
+              Inizia Quiz
+            </button>
+          </div>
+        )}
+
+        {screen === 'quiz' && (
+          <div className="p-6">
+            {/* Progress bar */}
+            <div className="mb-6">
+              <div className="h-2 bg-gray-200 rounded-full overflow-hidden">
+                <div 
+                  className="h-full bg-gradient-to-r from-indigo-600 to-purple-600 transition-all duration-500" 
+                  style={{ width: getProgressBarWidth() }}
+                />
+              </div>
+              <div className="flex justify-between items-center mt-2">
+                <span className="text-sm text-gray-600">
+                  Domanda {currentQuestion + 1} di {selectedQuestions.length}
+                </span>
+                <button
+                  onClick={() => setScreen('home')}
+                  className="text-gray-600 hover:text-indigo-600 transition-colors flex items-center gap-1"
+                >
+                  <Home size={16} />
+                  Home
+                </button>
+              </div>
+            </div>
+            
+            <div className="inline-block bg-gradient-to-r from-indigo-100 to-purple-100 
+                          text-indigo-800 px-4 py-2 rounded-full text-sm font-medium mb-4">
+              {selectedQuestions[currentQuestion].categoria}
+            </div>
+            
+            <div className="text-lg text-gray-800 mb-6 font-medium">
+              {selectedQuestions[currentQuestion].testo}
+            </div>
+
+            <div className="space-y-3">
+              {selectedQuestions[currentQuestion].opzioni.map((option, index) => {
+                const isCorrect = index === selectedQuestions[currentQuestion].risposta_corretta;
+                const isSelected = selectedAnswer === index;
+                let buttonStyle = "bg-white border-2 hover:border-indigo-300";
+                
+                if (answerGiven) {
+                  if (isCorrect) {
+                    buttonStyle = "bg-green-50 border-2 border-green-500";
+                  } else if (isSelected) {
+                    buttonStyle = "bg-red-50 border-2 border-red-500";
+                  }
+                }
+
+                return (
+                  <button
+                    key={index}
+                    onClick={() => checkAnswer(index)}
+                    className={`w-full p-4 rounded-xl text-left transition-all duration-200 
+                              flex items-center justify-between group ${buttonStyle}`}
+                    disabled={answerGiven}
+                  >
+                    <span className="flex-1">{option}</span>
+                    {answerGiven && (isCorrect ? 
+                      <CheckCircle className="text-green-500" size={20} /> : 
+                      (isSelected && <XCircle className="text-red-500" size={20} />)
+                    )}
+                  </button>
+                );
+              })}
+            </div>
+
+            {answerGiven && (
+              <button
+                onClick={nextQuestion}
+                className="w-full mt-6 bg-gradient-to-r from-indigo-600 to-purple-600 
+                          text-white p-4 rounded-xl font-semibold hover:opacity-90 
+                          transition-all duration-200 flex items-center justify-center gap-2"
+              >
+                {currentQuestion < selectedQuestions.length - 1 ? (
+                  <>
+                    Prossima
+                    <ArrowRight size={20} />
+                  </>
+                ) : (
+                  <>
+                    Vedi Risultati
+                    <Award size={20} />
+                  </>
+                )}
+              </button>
+            )}
+          </div>
+        )}
+
+        {screen === 'results' && (
+          <div className="p-6 text-center space-y-6">
+            <Award size={80} className="mx-auto text-indigo-600" />
+            
+            <div>
+              <div className="text-6xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 
+                            bg-clip-text text-transparent mb-2">
+                {Math.round((score / selectedQuestions.length) * 100)}%
+              </div>
+              <div className="text-xl text-gray-600">
+                {score} risposte corrette su {selectedQuestions.length}
+              </div>
+            </div>
+            
+            {!reviewMode && wrongQuestions.length > 0 && (
+              <button
+                onClick={startReview}
+                className="w-full bg-gradient-to-r from-orange-500 to-red-500 
+                          text-white p-4 rounded-xl font-semibold hover:opacity-90 
+                          transition-all duration-200 flex items-center justify-center gap-2"
+              >
+                <RefreshCw size={20} />
+                Ripassa {wrongQuestions.length} domande sbagliate
+              </button>
+            )}
+            
+            <button
+              onClick={() => setScreen('home')}
+              className="w-full bg-gradient-to-r from-indigo-600 to-purple-600 
+                        text-white p-4 rounded-xl font-semibold hover:opacity-90 
+                        transition-all duration-200 flex items-center justify-center gap-2"
+            >
+              <Home size={20} />
+              Torna alla Home
+            </button>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+};
