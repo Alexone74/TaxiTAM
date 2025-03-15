@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App - CDN Alternative</title>
+    <!-- Versioni più stabili da CDN alternative -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.development.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.development.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.21.2/babel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lucide@latest/dist/umd/lucide.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+</head>
+<body class="bg-blue-100">
+    <div id="root"></div>
+
+    <script type="text/babel">
+        // Componente minimo con gestione degli errori
+        function QuizApp() {
+            try {
+                return (
+                    <div className="p-6 max-w-md mx-auto mt-10 bg-white rounded-xl shadow-md">
+                        <h1 className="text-2xl font-bold text-blue-600">Quiz App - Test</h1>
+                        <p className="mt-3">Se vedi questo, l'app React si è caricata correttamente.</p>
+                        <button className="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">
+                            Test Pulsante
+                        </button>
+                    </div>
+                );
+            } catch (error) {
+                // Mostra errori direttamente nell'interfaccia
+                return (
+                    <div style={{padding: '20px', color: 'red', backgroundColor: '#ffeeee', margin: '20px'}}>
+                        <h2>Si è verificato un errore:</h2>
+                        <pre>{error.toString()}</pre>
+                        <p>Stack trace:</p>
+                        <pre>{error.stack}</pre>
+                    </div>
+                );
+            }
+        }
+
+        // Error boundary globale
+        window.addEventListener('error', function(e) {
+            document.getElementById('root').innerHTML = 
+                '<div style="padding: 20px; color: red; background-color: #ffeeee;">' +
+                '<h2>Si è verificato un errore JavaScript:</h2>' +
+                '<p>' + e.message + '</p>' +
+                '<p>File: ' + e.filename + '</p>' +
+                '<p>Linea: ' + e.lineno + '</p>' +
+                '</div>';
+            console.error('Errore catturato:', e);
+            return true; // Impedisce il comportamento predefinito dell'errore
+        });
+
+        // Avvio con gestione degli errori
+        try {
+            console.log("Inizializzazione React...");
+            const root = ReactDOM.createRoot(document.getElementById('root'));
+            console.log("Root creato, rendering del componente...");
+            root.render(<QuizApp />);
+            console.log("Rendering completato.");
+        } catch (error) {
+            console.error("Errore durante l'inizializzazione di React:", error);
+            document.getElementById('root').innerHTML = 
+                '<div style="padding: 20px; color: red; background-color: #ffeeee;">' +
+                '<h2>Errore di inizializzazione React:</h2>' +
+                '<pre>' + error.toString() + '</pre>' +
+                '</div>';
+        }
+    </script>
+</body>
+</html>
