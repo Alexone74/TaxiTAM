@@ -1,0 +1,179 @@
+{
+  "categorie": [
+    "Geografia",
+    "Normativa Statale e Regionale",
+    "Regolamento e Comportamento",
+    "Fuori Dispensa",
+    {
+      "nome": "Lingue",
+      "sottocategorie": [
+        "Inglese",
+        "Francese",
+        "Spagnolo",
+        "Tedesco"
+      ]
+    }
+  ],
+  "domande": [
+    {
+      "categoria": "Inglese",
+      "testo": "Where ………. from?",
+      "opzioni": [
+        "You are",
+        "Are you",
+        "Are"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Where ……….?",
+      "opzioni": [
+        "You live",
+        "Are you live",
+        "Do you live"
+      ],
+      "risposta_corretta": 2
+    },   
+    {
+      "categoria": "Geografia",
+      "testo": "Benaco è il nome di quale Lago:",
+      "opzioni": [
+        "Lago d'Iseo",
+        "Lago Maggiore",
+        "Lago di Garda"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Sebino è il nome di quale Lago:",
+      "opzioni": [
+        "Lago di Garda",
+        "Lago d'Iseo",
+        "Lago di Como"
+      ],
+      "risposta_corretta": 1
+    },    
+    {
+      "categoria": "Normativa Statale e Regionale",
+      "testo": "Ai sensi dell’art. 2 della legge 15 gennaio 1992 N. 21, chi stabilisce sanzioni amministrative per l’inosservanza dell’obbligo del servizio taxi nelle aree comunali o comprensoriali?",
+      "opzioni": [
+        "Le regioni",
+        "Le camere di Commercio Industria Artigianato e Agricoltura",
+        "Gli organi di Polizia Stradale"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Normativa Statale e Regionale",
+      "testo": "L’art. 14 “disposizioni particolari” della legge 15 gennaio 1992 n. 21 regolamenta tra l’altro:",
+      "opzioni": [
+        "Le sanzioni amministrative per l’inosservanza delle tariffe del servizio taxi",
+        "L’accessibilità per i servizi taxi e autonoleggio a tutti i soggetti portatori di handicap",
+        "L’accesso al carico negli scali aeroportuali"
+      ],
+      "risposta_corretta": 1
+    },    
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "I conducenti delle autopubbliche hanno l'obbligo, tra l'altro, durante la corsa:",
+      "opzioni": [
+        "Di ammettere sull'autovettura persone estranee a quelle che hanno richiesto il servizio, senza il consenso di queste ultime",
+        "Di effettuare il servizio di trasporto di bambini non accompagnati da persona maggiorenne",
+        "Di ultimare la corsa anche se, nel frattempo, è scaduto il turno"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "Tra i doveri prescritti per i conducenti di vetture da piazza è previsto:",
+      "opzioni": [
+        "Compiere il percorso più breve per raggiungere la destinazione richiesta e comunque il percorso indicato dall'utente",
+        "Nel caso di rinvenimento di qualsiasi oggetto smarrito, aprire una ricerca per riconsegnare l'oggetto al legittimo proprietario",
+        "Interrompere di propria iniziativa il servizio quando si venga richiesti per altro più vantaggioso"
+      ],
+      "risposta_corretta": 0
+    },    
+    {
+      "categoria": "Fuori Dispensa",
+      "testo": "La città di Castiglione delle Stiviere si trova in provincia di:",
+      "opzioni": [
+        "Brescia",
+        "Cremona",
+        "Mantova"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Fuori Dispensa",
+      "testo": "Quale zona della Lombardia è nota per essere fiorente produttrice di mobili?",
+      "opzioni": [
+        "La Brianza",
+        "La Lomellina",
+        "La Val Trompia"
+      ],
+      "risposta_corretta": 0
+    },    
+    {
+      "categoria": "Francese",
+      "testo": "Je suis canadienne; j’habite ……… Toronto.",
+      "opzioni": [
+        "à",
+        "De",
+        "Pour"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Francese",
+      "testo": "Mes parents ont ………. yeux bleus",
+      "opzioni": [
+        "Les",
+        "Des",
+        "L'"
+      ],
+      "risposta_corretta": 0
+    },    
+    {
+      "categoria": "Spagnolo",
+      "testo": "Laura ……………… en Sevilla.",
+      "opzioni": [
+        "Vivo",
+        "Vive",
+        "Vives"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Spagnolo",
+      "testo": "…………………. la mùsica.",
+      "opzioni": [
+        "Yo gusto",
+        "Me gusto de",
+        "Me gusta"
+      ],
+      "risposta_corretta": 2
+    },    
+    {
+      "categoria": "Tedesco",
+      "testo": "Ich heiße Heinz und arbeite ………. Berlin.",
+      "opzioni": [
+        "In",
+        "Zu",
+        "An"
+      ],
+      "risposta_corretta": 0
+    },    
+    {
+      "categoria": "Tedesco",
+      "testo": "Wir treffen uns …………… 10.00 Uhr.",
+      "opzioni": [
+        "An Mittwoch zu",
+        "Um Mittwoch am",
+        "Am Mittwoch um"
+      ],
+      "risposta_corretta": 2
+    }
+  ]
+}
