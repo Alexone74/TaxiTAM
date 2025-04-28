@@ -299,6 +299,8 @@ Geografia | Per cosa è famosa Cremona? | Armi | Manufatti in Legno | Strumenti 
 Geografia | Quale di questi Fiumi non interessa le province di Brescia e Cremona? | Adda | Ticino | Oglio | 2
 Geografia | Quale linea collega Milano a Sesto San Giovanni? | MM 1, Rossa | FFSS Milano - Treviglio | FNM Milano - Meda | 1
 Geografia | Quale di questi laghi non è in Lombardia? | Molveno | Iseo | Idro | 1
+Geografia | Quale strada Provinciale passa vicino al Comune di Chieve? | SP 234 Codognese | SP 415 Paullese | SS 36 Lago di Como e dello Spluga | 2
+Geografia | Quale strada Provinciale passa nel Comune di Chieve? | SS 237 del Caffaro | SP 235 di Orzinuovi | SS 12 Abetone - Brennero | 2
 Normativa Statale e Regionale | Ai sensi dell’art. 2 della legge 15 gennaio 1992 N. 21, chi stabilisce sanzioni amministrative per l’inosservanza dell’obbligo del servizio taxi nelle aree comunali o comprensoriali? | Le regioni | Le camere di Commercio Industria Artigianato e Agricoltura | Gli organi di Polizia Stradale | 1
 Normativa Statale e Regionale | L’art. 14 “disposizioni particolari” della legge 15 gennaio 1992 n. 21 regolamenta tra l’altro: | Le sanzioni amministrative per l’inosservanza delle tariffe del servizio taxi | L’accessibilità per i servizi taxi e autonoleggio a tutti i soggetti portatori di handicap | L’accesso al carico negli scali aeroportuali | 2
 Normativa Statale e Regionale | Il titolare di licenza taxi può essere sostituito, ai sensi dell’art. 10 della legge 15 gennaio 1992 n. 21, per motivi di salute o inabilità temporanea: | Da altro titolare di licenza taxi di altro comune | Da persone iscritte nel ruolo di cui art. 6 della legge 15 gennaio 1992 n. 21 | Da persone designate dal Prefetto | 2
@@ -494,6 +496,7 @@ Normativa Statale e Regionale | Requisiti necessari per iniziare l’attività: 
 Normativa Statale e Regionale | L’importo a tassametro è sempre omnicomprensivo? | Sì | Sì, salvo pedaggi autostradali | No, mai | 2
 Normativa Statale e Regionale | E’ ammesso il cumulo di più autorizzazioni NCC in capo alla stessa persona? | No, mai | Sì, sempre | A volte | 2
 Normativa Statale e Regionale | E’ consentito al titolare di Licenza Taxi l’uso di auto sostitutiva? | No, mai | Sì, se l’auto è guasta (minimo 3 giorni max 120 giorni all’anno) | Sì per 3 giorni se non è stato la causa del fermo | 2
+Normativa Statale e Regionale | Ai sensi del RR 2014 chi certifica l'omologazione del Tassametro? | I Comuni capoluogo di Provincia | La Regione | L'autorità di Polizia | 1 
 Regolamento e Comportamento | I conducenti delle autopubbliche hanno l'obbligo, tra l'altro, durante la corsa: | Di ammettere sull'autovettura persone estranee a quelle che hanno richiesto il servizio, senza il consenso di queste ultime | Di effettuare il servizio di trasporto di bambini non accompagnati da persona maggiorenne | Di ultimare la corsa anche se, nel frattempo, è scaduto il turno | 3
 Regolamento e Comportamento | Tra i doveri prescritti per i conducenti di vetture da piazza è previsto: | Compiere il percorso più breve per raggiungere la destinazione richiesta e comunque il percorso indicato dall'utente | Nel caso di rinvenimento di qualsiasi oggetto smarrito, aprire una ricerca per riconsegnare l'oggetto al legittimo proprietario | Interrompere di propria iniziativa il servizio quando si venga richiesti per altro più vantaggioso | 1
 Regolamento e Comportamento | Al termine del servizio, il conducente della vettura taxi deve: | Aprire la portiera dell'autovettura sul lato scorrimento dei veicoli ed aiutare a scendere i passeggeri | Far prendere visione all'utente del prezzo della corsa e quindi azzerare il tassametro | Pretendere compensi oltre il prezzo segnato sul tassametro ed i supplementi dovuti | 2
@@ -689,6 +692,9 @@ Fuori Dispensa | Il titolare può conferire la licenza a organismi cooperativi? 
 Fuori Dispensa | Quale linea collega Milano a Sesto San Giovanni? | MM 1, Rossa | FFSS Milano - Treviglio | FNM Milano - Meda | 1
 Fuori Dispensa | Quale di questi laghi non è in Lombardia? | Molveno | Iseo | Idro | 1
 Fuori Dispensa | (Ai sensi del RR 2014) chi detta norme in materia di servizio Taxi? | Provincia | Regione | Prefettura | 2
+Fuori Dispensa | Ai sensi del RR 2014 chi certifica l'omologazione del Tassametro? | I Comuni capoluogo di Provincia | La Regione | L'autorità di Polizia | 1 
+Fuori Dispensa | Quale strada Provinciale passa vicino al Comune di Chieve? | SP 234 Codognese | SP 415 Paullese | SS 36 Lago di Como e dello Spluga | 2
+Fuori Dispensa | Quale strada Provinciale passa nel Comune di Chieve? | SS 237 del Caffaro | SP 235 di Orzinuovi | SS 12 Abetone - Brennero | 2 
 Francese | Je suis canadienne; j’habite ……… Toronto. | à | De | Pour | 1
 Francese | Mes parents ont ………. yeux bleus | Les | Des | L' | 1
 Francese | Nous arrivons ………… Russie où il fait très froid. | à | En | De | 3

@@ -3026,6 +3026,26 @@
       "risposta_corretta": 0
     },
     {
+      "categoria": "Geografia",
+      "testo": "Quale strada Provinciale passa vicino al Comune di Chieve?",
+      "opzioni": [
+        "SP 234 Codognese",
+        "SP 415 Paullese",
+        "SS 36 Lago di Como e dello Spluga"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quale strada Provinciale passa nel Comune di Chieve?",
+      "opzioni": [
+        "SS 237 del Caffaro",
+        "SP 235 di Orzinuovi",
+        "SS 12 Abetone - Brennero"
+      ],
+      "risposta_corretta": 1
+    },
+    {
       "categoria": "Normativa Statale e Regionale",
       "testo": "Ai sensi dell’art. 2 della legge 15 gennaio 1992 N. 21, chi stabilisce sanzioni amministrative per l’inosservanza dell’obbligo del servizio taxi nelle aree comunali o comprensoriali?",
       "opzioni": [
@@ -4976,6 +4996,16 @@
       "risposta_corretta": 1
     },
     {
+      "categoria": "Normativa Statale e Regionale",
+      "testo": "Ai sensi del RR 2014 chi certifica l'omologazione del Tassametro?",
+      "opzioni": [
+        "I Comuni capoluogo di Provincia",
+        "La Regione",
+        "L'autorità di Polizia"
+      ],
+      "risposta_corretta": 0
+    },
+    {
       "categoria": "Regolamento e Comportamento",
       "testo": "I conducenti delle autopubbliche hanno l'obbligo, tra l'altro, durante la corsa:",
       "opzioni": [
@@ -6922,6 +6952,36 @@
         "Provincia",
         "Regione",
         "Prefettura"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Fuori Dispensa",
+      "testo": "Ai sensi del RR 2014 chi certifica l'omologazione del Tassametro?",
+      "opzioni": [
+        "I Comuni capoluogo di Provincia",
+        "La Regione",
+        "L'autorità di Polizia"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Fuori Dispensa",
+      "testo": "Quale strada Provinciale passa vicino al Comune di Chieve?",
+      "opzioni": [
+        "SP 234 Codognese",
+        "SP 415 Paullese",
+        "SS 36 Lago di Como e dello Spluga"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Fuori Dispensa",
+      "testo": "Quale strada Provinciale passa nel Comune di Chieve?",
+      "opzioni": [
+        "SS 237 del Caffaro",
+        "SP 235 di Orzinuovi",
+        "SS 12 Abetone - Brennero"
       ],
       "risposta_corretta": 1
     },
