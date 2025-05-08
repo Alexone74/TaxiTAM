@@ -263,44 +263,44 @@ Geografia |	La stazione ferroviaria di Villasanta si trova sulla linea delle FS:
 Geografia |	La strada statale 412 della Val Tidone interessa la provincia di: | Pavia | Varese | Sondrio | 1
 Geografia |	San Pellegrino Terme è attraversata da una statale. Trattasi della: | SS 472 Bergamina | SS 470 della Val Brembana | SS 342 Briantea | 2
 Geografia |	Collega Magenta ad Abbiategrasso e si innesta nella strada statale 35 a Pavia. Stiamo parlando della: | SS 526 dell’Est Ticino | SS 494 Vigevanese | SS 236 Goitese | 1
-Geografia | La città di Castiglione delle Stiviere si trova in provincia di: | Brescia | Cremona | Mantova | 3
-Geografia | Quale zona della Lombardia è nota per essere fiorente produttrice di mobili? | La Brianza | La Lomellina | La Val Trompia | 1
-Geografia | Una di queste strade statali non interessa il territorio di Cremona: | SS n. 415 “Paullese” | SS n. 591 “Cremasca” | SS n. 11 “Padana Superiore” | 3
-Geografia | Tra Salò e Vestone si estende: | La Val Sabbia | La Val Trompia | La Val di Scalve | 1
-Geografia | Quale Strada Statale passa per Soncino? | SS n. 9 Emilia | SS n. 498 Soncinese | SS n. 494 Vigevanese | 2 
-Geografia | Qual è il capoluogo di provincia della Lombardia più settentrionale? | Brescia | Sondrio | Lecco | 2
-Geografia | Quale fiume non passa da Milano? | Olona | Lambro | Ticino | 3
-Geografia | Quanto è alto il grattacielo Pirelli? | Da 90 a 100 metri | Da 100 a 120 metri | Oltre 120 metri | 3
-Geografia | Quale statale non passa da Busto Arsizio? | SS n. 33 del Sempione | SS n.527 Bustese | SS n.233 Varesina | 3
-Geografia | In quale provincia si trova il Lago di Endine? | Brescia | Bergamo | Mantova | 2
-Geografia | Il Mella è affluente del fiume: | Serio | Oglio | Adda | 2
-Geografia | Distanza da Bergamo all’aeroporto di Orio al Serio: | Meno di 10 Km | 15 Km | Più di 25 Km | 1
-Geografia | In quale provincia si trova il passo del Brallo? | Pavia | Cremona | Brescia | 1
-Geografia | La terza città in Lombardia per densità di popolazione | Monza | Bergamo | Lecco | 1
-Geografia | Quale città Lombarda non è diventata Capoluogo di Provincia nel 1993? | Monza | Lodi | Lecco | 1
-Geografia | Quanti sono gli abitanti della Lombardia? | 9 Milioni | Tra 9 e 11 Milioni | Più di 11 Milioni | 2
-Geografia | In quale provincia della Lombardia si trova il comune di Belgioioso? | Pavia | Lodi | Sondrio | 1
-Geografia | Qual è il Lago più profondo della Lombardia? | Lago di Garda | Lago di Como | Lago d’Idro | 2
-Geografia | Vi si trova una Rocca (Sforzesca) | Soncino | Soresina | Val di Nizza | 1
-Geografia | Tre Province in Lombardia non hanno confini esterni, ma sono circondate da altre province Lombarde: | Lecco, Monza e Brianza, Bergamo | Como, Lecco, Bergamo | Lecco, Bergamo, Cremona | 1
-Geografia | La provincia di Pavia non confina con… | Piemonte | Emilia Romagna | Liguria | 3
-Geografia | La denominazione-destinazione della A21 (Autostrada dei Vini) |Torino, Piacenza, Brescia | Torino, Lodi, Brescia | Alessandria, Piacenza, Bergamo | 1
-Geografia | Quale città è più vicina al Confine di Stato? | Como | Varese | Sondrio | 1
-Geografia | Quali di questi paesi NON ha la stazione delle ferrovie dello stato? | Varese | Saronno | Laveno Mombello | 2
-Geografia | Su quale Lago si affaccia Sarnico? | Lago di Idro | Lago di Garda | Lago d’Iseo | 3
-Geografia | Importante città dell’Oltrepò pavese | Voghera | Suzzara | Capri | 1
-Geografia | Dove si trova il Castello di San Gaudenzio | Cervesina | Belgioioso | Pietra… | 1
-Geografia | Sabbioneta NON è: | Una città romana | In Provincia di Mantova | Sul fiume Po | 1
-Geografia | Abbiategrasso è sulla linea ferroviaria: | Milano-Novara | Milano-Mortara | Milano-Pavia | 2
-Geografia | Da quale Fiume è attraversato Pizzighettone? | Serio | Adda | Oglio | 2
-Geografia | Su quale linea ferroviaria si trova Desenzano del Garda? | Milano-Novara-torino | Milano-Brescia-Venezia | Milano-Piacenza-Bologna | 2
-Geografia | Dove si trova Gargnano? | Sul Lago di Garda | Sul Lago Maggiore | Sul Lago di Como | 1
-Geografia | Per cosa è famosa Cremona? | Armi | Manufatti in Legno | Strumenti Musicali | 3
-Geografia | Quale di questi Fiumi non interessa le province di Brescia e Cremona? | Adda | Ticino | Oglio | 2
-Geografia | Quale linea collega Milano a Sesto San Giovanni? | MM 1, Rossa | FFSS Milano - Treviglio | FNM Milano - Meda | 1
-Geografia | Quale di questi laghi non è in Lombardia? | Molveno | Iseo | Idro | 1
-Geografia | Quale strada Provinciale passa vicino al Comune di Chieve? | SP 234 Codognese | SP 415 Paullese | SS 36 Lago di Como e dello Spluga | 2
-Geografia | Quale strada Provinciale passa nel Comune di Chieve? | SS 237 del Caffaro | SP 235 di Orzinuovi | SS 12 Abetone - Brennero | 2
+Geografia | * La città di Castiglione delle Stiviere si trova in provincia di: | Brescia | Cremona | Mantova | 3
+Geografia | * Quale zona della Lombardia è nota per essere fiorente produttrice di mobili? | La Brianza | La Lomellina | La Val Trompia | 1
+Geografia | * Una di queste strade statali non interessa il territorio di Cremona: | SS n. 415 “Paullese” | SS n. 591 “Cremasca” | SS n. 11 “Padana Superiore” | 3
+Geografia | * Tra Salò e Vestone si estende: | La Val Sabbia | La Val Trompia | La Val di Scalve | 1
+Geografia | * Quale Strada Statale passa per Soncino? | SS n. 9 Emilia | SS n. 498 Soncinese | SS n. 494 Vigevanese | 2 
+Geografia | * Qual è il capoluogo di provincia della Lombardia più settentrionale? | Brescia | Sondrio | Lecco | 2
+Geografia | * Quale fiume non passa da Milano? | Olona | Lambro | Ticino | 3
+Geografia | * Quanto è alto il grattacielo Pirelli? | Da 90 a 100 metri | Da 100 a 120 metri | Oltre 120 metri | 3
+Geografia | * Quale statale non passa da Busto Arsizio? | SS n. 33 del Sempione | SS n.527 Bustese | SS n.233 Varesina | 3
+Geografia | * In quale provincia si trova il Lago di Endine? | Brescia | Bergamo | Mantova | 2
+Geografia | * Il Mella è affluente del fiume: | Serio | Oglio | Adda | 2
+Geografia | * Distanza da Bergamo all’aeroporto di Orio al Serio: | Meno di 10 Km | 15 Km | Più di 25 Km | 1
+Geografia | * In quale provincia si trova il passo del Brallo? | Pavia | Cremona | Brescia | 1
+Geografia | * La terza città in Lombardia per densità di popolazione | Monza | Bergamo | Lecco | 1
+Geografia | * Quale città Lombarda non è diventata Capoluogo di Provincia nel 1993? | Monza | Lodi | Lecco | 1
+Geografia | * Quanti sono gli abitanti della Lombardia? | 9 Milioni | Tra 9 e 11 Milioni | Più di 11 Milioni | 2
+Geografia | * In quale provincia della Lombardia si trova il comune di Belgioioso? | Pavia | Lodi | Sondrio | 1
+Geografia | * Qual è il Lago più profondo della Lombardia? | Lago di Garda | Lago di Como | Lago d’Idro | 2
+Geografia | * Vi si trova una Rocca (Sforzesca) | Soncino | Soresina | Val di Nizza | 1
+Geografia | * Tre Province in Lombardia non hanno confini esterni, ma sono circondate da altre province Lombarde: | Lecco, Monza e Brianza, Bergamo | Como, Lecco, Bergamo | Lecco, Bergamo, Cremona | 1
+Geografia | * La provincia di Pavia non confina con… | Piemonte | Emilia Romagna | Liguria | 3
+Geografia | * La denominazione-destinazione della A21 (Autostrada dei Vini) |Torino, Piacenza, Brescia | Torino, Lodi, Brescia | Alessandria, Piacenza, Bergamo | 1
+Geografia | * Quale città è più vicina al Confine di Stato? | Como | Varese | Sondrio | 1
+Geografia | * Quali di questi paesi NON ha la stazione delle ferrovie dello stato? | Varese | Saronno | Laveno Mombello | 2
+Geografia | * Su quale Lago si affaccia Sarnico? | Lago di Idro | Lago di Garda | Lago d’Iseo | 3
+Geografia | * Importante città dell’Oltrepò pavese | Voghera | Suzzara | Capri | 1
+Geografia | * Dove si trova il Castello di San Gaudenzio | Cervesina | Belgioioso | Pietra… | 1
+Geografia | * Sabbioneta NON è: | Una città romana | In Provincia di Mantova | Sul fiume Po | 1
+Geografia | * Abbiategrasso è sulla linea ferroviaria: | Milano-Novara | Milano-Mortara | Milano-Pavia | 2
+Geografia | * Da quale Fiume è attraversato Pizzighettone? | Serio | Adda | Oglio | 2
+Geografia | * Su quale linea ferroviaria si trova Desenzano del Garda? | Milano-Novara-torino | Milano-Brescia-Venezia | Milano-Piacenza-Bologna | 2
+Geografia | * Dove si trova Gargnano? | Sul Lago di Garda | Sul Lago Maggiore | Sul Lago di Como | 1
+Geografia | * Per cosa è famosa Cremona? | Armi | Manufatti in Legno | Strumenti Musicali | 3
+Geografia | * Quale di questi Fiumi non interessa le province di Brescia e Cremona? | Adda | Ticino | Oglio | 2
+Geografia | * Quale linea collega Milano a Sesto San Giovanni? | MM 1, Rossa | FFSS Milano - Treviglio | FNM Milano - Meda | 1
+Geografia | * Quale di questi laghi non è in Lombardia? | Molveno | Iseo | Idro | 1
+Geografia | * Quale strada Provinciale passa vicino al Comune di Chieve? | SP 234 Codognese | SP 415 Paullese | SS 36 Lago di Como e dello Spluga | 2
+Geografia | * Quale strada Provinciale passa nel Comune di Chieve? | SS 237 del Caffaro | SP 235 di Orzinuovi | SS 12 Abetone - Brennero | 2
 Normativa Statale e Regionale | Ai sensi dell’art. 2 della legge 15 gennaio 1992 N. 21, chi stabilisce sanzioni amministrative per l’inosservanza dell’obbligo del servizio taxi nelle aree comunali o comprensoriali? | Le regioni | Le camere di Commercio Industria Artigianato e Agricoltura | Gli organi di Polizia Stradale | 1
 Normativa Statale e Regionale | L’art. 14 “disposizioni particolari” della legge 15 gennaio 1992 n. 21 regolamenta tra l’altro: | Le sanzioni amministrative per l’inosservanza delle tariffe del servizio taxi | L’accessibilità per i servizi taxi e autonoleggio a tutti i soggetti portatori di handicap | L’accesso al carico negli scali aeroportuali | 2
 Normativa Statale e Regionale | Il titolare di licenza taxi può essere sostituito, ai sensi dell’art. 10 della legge 15 gennaio 1992 n. 21, per motivi di salute o inabilità temporanea: | Da altro titolare di licenza taxi di altro comune | Da persone iscritte nel ruolo di cui art. 6 della legge 15 gennaio 1992 n. 21 | Da persone designate dal Prefetto | 2
@@ -476,27 +476,27 @@ Normativa Statale e Regionale |	Da quali province è composto ai sensi dell’ar
 Normativa Statale e Regionale |	Ai sensi dell’art. 7 comma 5 della “Disciplina del servizio taxi nel bacino aeroportuale lombardo” di cui alla DGR n. 2030 del 01/07/14, qual è la tariffa predeterminata per il percorso Milano-Malpensa? | Euro 110,00 | Euro 55,00 | Euro 75,00 | 1
 Normativa Statale e Regionale |	Ai sensi dell’art. 7 comma 5 della “Disciplina del servizio taxi nel bacino aeroportuale lombardo” di cui alla DGR n. 2030 del 01/07/14, qual è la tariffa predeterminata per il percorso Malpensa-Fiera Polo esterno? | Euro 80,00 | Euro 92,00 | Euro 40,00 | 2
 Normativa Statale e Regionale |	Ai sensi dell’art. 7 comma 5 della “Disciplina del servizio taxi nel bacino aeroportuale lombardo” di cui alla DGR n. 2030 del 01/07/14, qual è la tariffa predeterminata per il percorso Linate-Fiera polo esterno? | Euro 50,00 | Euro 80,00 | Euro 64,00 | 3
-Normativa Statale e Regionale | (Ai sensi del R.R. 2014) chi detta norme in materia di servizio Taxi? | Provincia | Regione | Prefettura | 2
+Normativa Statale e Regionale | * Ai sensi del R.R. 2014 chi detta norme in materia di servizio Taxi? | Provincia | Regione | Prefettura | 2
 Normativa Statale e Regionale | Ai sensi della L. n. 21/'92 art.8 comma 1 in base a quali titoli giuridici il richiedente di autorizzazione NCC o licenza TAXI dispone del veicolo? | Proprietà o leasing | Proprietà o usufrutto | Comodato gratuito | 1
-Normativa Statale e Regionale | Qual è la tariffa predeterminata Aeroporto Malpensa - Fiera Milano Rho? | 92 € | 95 € | 105 € | 1
-Normativa Statale e Regionale | Qual è l’importo minimo per le corse in partenza da un Aeroporto? | 15,40 € | 16,00 € | 18,00 € | 1
-Normativa Statale e Regionale | Fuori servizio, il tassista può fare una corsa? | Sì sempre | Sì, se necessario ( Conveniente) | Sì, se richiesto dalle Forze dell’Ordine | 3
-Normativa Statale e Regionale | Per l’NCC è obbligatorio rientrare in rimessa alla fine di ogni singolo servizio? | Sì, sempre | No, mai | No, se nel foglio di servizio è previsto un altro servizio | 3
-Normativa Statale e Regionale | Quali sono i limiti territoriali per il prelevamento e la destinazione per gli NCC? | Nessun limite | Prelevamento nella Provincia e nessun limite per la destinazione | Limiti sia al prelevamento che alla destinazione | 1 
-Normativa Statale e Regionale | In caso di decesso del titolare, a chi può essere trasferita la Licenza Taxi? | Ad uno degli eredi appartenenti al nucleo familiare | A chiunque abbia i requisiti | Solo ai figli maggiorenni | 1
-Normativa Statale e Regionale | Chi stabilisce forma e dimensioni della scritta servizio pubblico che ogni taxi deve avere? | Regione | Comune | Città Metropolitana | 2
-Normativa Statale e Regionale | Il titolare può conferire la licenza a organismi cooperativi? | Sì, dietro autorizzazione del Sindaco | No | Sì, ma la titolarità resta in capo a lui | 3
-Normativa Statale e Regionale | Per quanto determinato dall’art 3 L. Reg. 15/04/95 dove deve essere ubicata la sede e almeno una rimessa dei veicoli al servizio NCC? | All’interno della Regione | Nell’area Comunale o Sovracomunale ove sia compreso il comune che ha rilasciato l’autorizzazione | Nella Città Metropolitana | 2
-Normativa Statale e Regionale | Da chi viene disposto il ritiro cautelativo della licenza o dell’autorizzazione? | Comune | Provincia | Regione | 1
-Normativa Statale e Regionale | Quando può essere, tra l’altro, disposto il ritiro della Licenza? | Per manomissione del tassametro | Per inosservanza del turno di servizio | Per mancanza di abbigliamento decoroso | 2
-Normativa Statale e Regionale | Quanti collaboratori familiari può avere un titolare di licenza Taxi? | Uno soltanto | Massimo Due | Tre ( più di Due ) | 2
-Normativa Statale e Regionale | Perché le Regioni delegano ai Comuni il Regolamento del Servizio Pubblico Non di Linea? | Per decentralizzare il Servizio | Per meglio integrarlo con gli altri modi di trasporto | Perché hanno già troppe mansioni da svolgere | 2
-Normativa Statale e Regionale | Quale Ente revoca la Licenza Taxi? | Comune | Provincia | Regione | 1
-Normativa Statale e Regionale | Requisiti necessari per iniziare l’attività: | Iscrizione al ruolo | Patente D | Certificato di Abilitazione Professionale | 1
-Normativa Statale e Regionale | L’importo a tassametro è sempre omnicomprensivo? | Sì | Sì, salvo pedaggi autostradali | No, mai | 2
-Normativa Statale e Regionale | E’ ammesso il cumulo di più autorizzazioni NCC in capo alla stessa persona? | No, mai | Sì, sempre | A volte | 2
-Normativa Statale e Regionale | E’ consentito al titolare di Licenza Taxi l’uso di auto sostitutiva? | No, mai | Sì, se l’auto è guasta (minimo 3 giorni max 120 giorni all’anno) | Sì per 3 giorni se non è stato la causa del fermo | 2
-Normativa Statale e Regionale | Ai sensi del RR 2014 chi certifica l'omologazione del Tassametro? | I Comuni capoluogo di Provincia | La Regione | L'autorità di Polizia | 1 
+Normativa Statale e Regionale | * Qual è la tariffa predeterminata Aeroporto Malpensa - Fiera Milano Rho? | 92 € | 95 € | 105 € | 1
+Normativa Statale e Regionale | * Qual è l’importo minimo per le corse in partenza da un Aeroporto? | 15,40 € | 16,00 € | 18,00 € | 1
+Normativa Statale e Regionale | * Fuori servizio, il tassista può fare una corsa? | Sì sempre | Sì, se necessario ( Conveniente) | Sì, se richiesto dalle Forze dell’Ordine | 3
+Normativa Statale e Regionale | * Per l’NCC è obbligatorio rientrare in rimessa alla fine di ogni singolo servizio? | Sì, sempre | No, mai | No, se nel foglio di servizio è previsto un altro servizio | 3
+Normativa Statale e Regionale | * Quali sono i limiti territoriali per il prelevamento e la destinazione per gli NCC? | Nessun limite | Prelevamento nella Provincia e nessun limite per la destinazione | Limiti sia al prelevamento che alla destinazione | 1 
+Normativa Statale e Regionale | * In caso di decesso del titolare, a chi può essere trasferita la Licenza Taxi? | Ad uno degli eredi appartenenti al nucleo familiare | A chiunque abbia i requisiti | Solo ai figli maggiorenni | 1
+Normativa Statale e Regionale | * Chi stabilisce forma e dimensioni della scritta servizio pubblico che ogni taxi deve avere? | Regione | Comune | Città Metropolitana | 2
+Normativa Statale e Regionale | * Il titolare può conferire la licenza a organismi cooperativi? | Sì, dietro autorizzazione del Sindaco | No | Sì, ma la titolarità resta in capo a lui | 3
+Normativa Statale e Regionale | * Per quanto determinato dall’art 3 L. Reg. 15/04/95 dove deve essere ubicata la sede e almeno una rimessa dei veicoli al servizio NCC? | All’interno della Regione | Nell’area Comunale o Sovracomunale ove sia compreso il comune che ha rilasciato l’autorizzazione | Nella Città Metropolitana | 2
+Normativa Statale e Regionale | * Da chi viene disposto il ritiro cautelativo della licenza o dell’autorizzazione? | Comune | Provincia | Regione | 1
+Normativa Statale e Regionale | * Quando può essere, tra l’altro, disposto il ritiro della Licenza? | Per manomissione del tassametro | Per inosservanza del turno di servizio | Per mancanza di abbigliamento decoroso | 2
+Normativa Statale e Regionale | * Quanti collaboratori familiari può avere un titolare di licenza Taxi? | Uno soltanto | Massimo Due | Tre ( più di Due ) | 2
+Normativa Statale e Regionale | * Perché le Regioni delegano ai Comuni il Regolamento del Servizio Pubblico Non di Linea? | Per decentralizzare il Servizio | Per meglio integrarlo con gli altri modi di trasporto | Perché hanno già troppe mansioni da svolgere | 2
+Normativa Statale e Regionale | * Quale Ente revoca la Licenza Taxi? | Comune | Provincia | Regione | 1
+Normativa Statale e Regionale | * Requisiti necessari per iniziare l’attività: | Iscrizione al ruolo | Patente D | Certificato di Abilitazione Professionale | 1
+Normativa Statale e Regionale | * L’importo a tassametro è sempre omnicomprensivo? | Sì | Sì, salvo pedaggi autostradali | No, mai | 2
+Normativa Statale e Regionale | * E’ ammesso il cumulo di più autorizzazioni NCC in capo alla stessa persona? | No, mai | Sì, sempre | A volte | 2
+Normativa Statale e Regionale | * E’ consentito al titolare di Licenza Taxi l’uso di auto sostitutiva? | No, mai | Sì, se l’auto è guasta (minimo 3 giorni max 120 giorni all’anno) | Sì per 3 giorni se non è stato la causa del fermo | 2
+Normativa Statale e Regionale | * Ai sensi del RR 2014 chi certifica l'omologazione del Tassametro? | I Comuni capoluogo di Provincia | La Regione | L'autorità di Polizia | 1 
 Regolamento e Comportamento | I conducenti delle autopubbliche hanno l'obbligo, tra l'altro, durante la corsa: | Di ammettere sull'autovettura persone estranee a quelle che hanno richiesto il servizio, senza il consenso di queste ultime | Di effettuare il servizio di trasporto di bambini non accompagnati da persona maggiorenne | Di ultimare la corsa anche se, nel frattempo, è scaduto il turno | 3
 Regolamento e Comportamento | Tra i doveri prescritti per i conducenti di vetture da piazza è previsto: | Compiere il percorso più breve per raggiungere la destinazione richiesta e comunque il percorso indicato dall'utente | Nel caso di rinvenimento di qualsiasi oggetto smarrito, aprire una ricerca per riconsegnare l'oggetto al legittimo proprietario | Interrompere di propria iniziativa il servizio quando si venga richiesti per altro più vantaggioso | 1
 Regolamento e Comportamento | Al termine del servizio, il conducente della vettura taxi deve: | Aprire la portiera dell'autovettura sul lato scorrimento dei veicoli ed aiutare a scendere i passeggeri | Far prendere visione all'utente del prezzo della corsa e quindi azzerare il tassametro | Pretendere compensi oltre il prezzo segnato sul tassametro ed i supplementi dovuti | 2
@@ -632,8 +632,8 @@ Regolamento e Comportamento | I conducenti dei taxi durante l'effettuazione dell
 Regolamento e Comportamento | I conducenti dei taxi durante il servizio hanno l'obbligo di: | Verificare la consistenza del bagaglio | Pretendere il pagamento anticipato della corsa successiva | Essere sempre muniti di una congrua quantità di moneta spicciola per essere in grado di corrispondere al cliente il resto | 3
 Regolamento e Comportamento | I conducenti dei taxi hanno l'obbligo di: | Disimpegnare il servizio con ogni decoro | Acquisire un'altra corsa attraverso l'utilizzo del telefono cellulare | Perquisire con attenzione i bagagli | 1
 Regolamento e Comportamento | I conducenti dei taxi al termine della corsa hanno l'obbligo di: | Recapitare ad altro indirizzo il bagaglio dell'utente, con pagamento della corsa anticipato | Accertare che l'utente non abbia smarrito alcun oggetto all'interno dell'autovettura | Appropriarsi di qualsiasi oggetto smarrito all'interno dell'autovettura | 2
-Regolamento e Comportamento | Dove vanno posizionate le tariffe? | Dietro al sedile anteriore lato passeggero | Di fianco al tassametro | Nella portiera lato conducente | 1
-Regolamento e Comportamento | Da dove deve iniziare il Servizio Taxi? (art.37 Regolamento di Bacino 2014) | Dal Bacino di Traffico del Sistema Aeroportuale | Dalla Provincia del Comune che ha rilasciato la Licenza | Dalla Città Metropolitana di Milano | 2
+Regolamento e Comportamento | * Dove vanno posizionate le tariffe? | Dietro al sedile anteriore lato passeggero | Di fianco al tassametro | Nella portiera lato conducente | 1
+Regolamento e Comportamento | * Da dove deve iniziare il Servizio Taxi? (art.37 Regolamento di Bacino 2014) | Dal Bacino di Traffico del Sistema Aeroportuale | Dalla Provincia del Comune che ha rilasciato la Licenza | Dalla Città Metropolitana di Milano | 2
 Fuori Dispensa | La città di Castiglione delle Stiviere si trova in provincia di: | Brescia | Cremona | Mantova | 3
 Fuori Dispensa | Quale zona della Lombardia è nota per essere fiorente produttrice di mobili? | La Brianza | La Lomellina | La Val Trompia | 1
 Fuori Dispensa | Una di queste strade statali non interessa il territorio di Cremona: | SS n. 415 “Paullese” | SS n. 591 “Cremasca” | SS n. 11 “Padana Superiore” | 3
@@ -691,7 +691,7 @@ Fuori Dispensa | Chi stabilisce forma e dimensioni della scritta servizio pubbli
 Fuori Dispensa | Il titolare può conferire la licenza a organismi cooperativi? | Sì, dietro autorizzazione del Sindaco | No | Sì, ma la titolarità resta in capo a lui | 3
 Fuori Dispensa | Quale linea collega Milano a Sesto San Giovanni? | MM 1, Rossa | FFSS Milano - Treviglio | FNM Milano - Meda | 1
 Fuori Dispensa | Quale di questi laghi non è in Lombardia? | Molveno | Iseo | Idro | 1
-Fuori Dispensa | (Ai sensi del RR 2014) chi detta norme in materia di servizio Taxi? | Provincia | Regione | Prefettura | 2
+Fuori Dispensa | Ai sensi del RR 2014 chi detta norme in materia di servizio Taxi? | Provincia | Regione | Prefettura | 2
 Fuori Dispensa | Ai sensi del RR 2014 chi certifica l'omologazione del Tassametro? | I Comuni capoluogo di Provincia | La Regione | L'autorità di Polizia | 1 
 Fuori Dispensa | Quale strada Provinciale passa vicino al Comune di Chieve? | SP 234 Codognese | SP 415 Paullese | SS 36 Lago di Como e dello Spluga | 2
 Fuori Dispensa | Quale strada Provinciale passa nel Comune di Chieve? | SS 237 del Caffaro | SP 235 di Orzinuovi | SS 12 Abetone - Brennero | 2 

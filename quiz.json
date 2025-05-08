@@ -2667,7 +2667,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "La città di Castiglione delle Stiviere si trova in provincia di:",
+      "testo": "* La città di Castiglione delle Stiviere si trova in provincia di:",
       "opzioni": [
         "Brescia",
         "Cremona",
@@ -2677,7 +2677,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quale zona della Lombardia è nota per essere fiorente produttrice di mobili?",
+      "testo": "* Quale zona della Lombardia è nota per essere fiorente produttrice di mobili?",
       "opzioni": [
         "La Brianza",
         "La Lomellina",
@@ -2687,7 +2687,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Una di queste strade statali non interessa il territorio di Cremona:",
+      "testo": "* Una di queste strade statali non interessa il territorio di Cremona:",
       "opzioni": [
         "SS n. 415 “Paullese”",
         "SS n. 591 “Cremasca”",
@@ -2697,7 +2697,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Tra Salò e Vestone si estende:",
+      "testo": "* Tra Salò e Vestone si estende:",
       "opzioni": [
         "La Val Sabbia",
         "La Val Trompia",
@@ -2707,7 +2707,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quale Strada Statale passa per Soncino?",
+      "testo": "* Quale Strada Statale passa per Soncino?",
       "opzioni": [
         "SS n. 9 Emilia",
         "SS n. 498 Soncinese",
@@ -2717,7 +2717,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Qual è il capoluogo di provincia della Lombardia più settentrionale?",
+      "testo": "* Qual è il capoluogo di provincia della Lombardia più settentrionale?",
       "opzioni": [
         "Brescia",
         "Sondrio",
@@ -2727,7 +2727,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quale fiume non passa da Milano?",
+      "testo": "* Quale fiume non passa da Milano?",
       "opzioni": [
         "Olona",
         "Lambro",
@@ -2737,7 +2737,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quanto è alto il grattacielo Pirelli?",
+      "testo": "* Quanto è alto il grattacielo Pirelli?",
       "opzioni": [
         "Da 90 a 100 metri",
         "Da 100 a 120 metri",
@@ -2747,7 +2747,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quale statale non passa da Busto Arsizio?",
+      "testo": "* Quale statale non passa da Busto Arsizio?",
       "opzioni": [
         "SS n. 33 del Sempione",
         "SS n.527 Bustese",
@@ -2757,7 +2757,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "In quale provincia si trova il Lago di Endine?",
+      "testo": "* In quale provincia si trova il Lago di Endine?",
       "opzioni": [
         "Brescia",
         "Bergamo",
@@ -2767,7 +2767,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Il Mella è affluente del fiume:",
+      "testo": "* Il Mella è affluente del fiume:",
       "opzioni": [
         "Serio",
         "Oglio",
@@ -2777,7 +2777,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Distanza da Bergamo all’aeroporto di Orio al Serio:",
+      "testo": "* Distanza da Bergamo all’aeroporto di Orio al Serio:",
       "opzioni": [
         "Meno di 10 Km",
         "15 Km",
@@ -2787,7 +2787,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "In quale provincia si trova il passo del Brallo?",
+      "testo": "* In quale provincia si trova il passo del Brallo?",
       "opzioni": [
         "Pavia",
         "Cremona",
@@ -2797,7 +2797,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "La terza città in Lombardia per densità di popolazione",
+      "testo": "* La terza città in Lombardia per densità di popolazione",
       "opzioni": [
         "Monza",
         "Bergamo",
@@ -2807,7 +2807,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quale città Lombarda non è diventata Capoluogo di Provincia nel 1993?",
+      "testo": "* Quale città Lombarda non è diventata Capoluogo di Provincia nel 1993?",
       "opzioni": [
         "Monza",
         "Lodi",
@@ -2817,7 +2817,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quanti sono gli abitanti della Lombardia?",
+      "testo": "* Quanti sono gli abitanti della Lombardia?",
       "opzioni": [
         "9 Milioni",
         "Tra 9 e 11 Milioni",
@@ -2827,7 +2827,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "In quale provincia della Lombardia si trova il comune di Belgioioso?",
+      "testo": "* In quale provincia della Lombardia si trova il comune di Belgioioso?",
       "opzioni": [
         "Pavia",
         "Lodi",
@@ -2837,7 +2837,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Qual è il Lago più profondo della Lombardia?",
+      "testo": "* Qual è il Lago più profondo della Lombardia?",
       "opzioni": [
         "Lago di Garda",
         "Lago di Como",
@@ -2847,7 +2847,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Vi si trova una Rocca (Sforzesca)",
+      "testo": "* Vi si trova una Rocca (Sforzesca)",
       "opzioni": [
         "Soncino",
         "Soresina",
@@ -2857,7 +2857,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Tre Province in Lombardia non hanno confini esterni, ma sono circondate da altre province Lombarde:",
+      "testo": "* Tre Province in Lombardia non hanno confini esterni, ma sono circondate da altre province Lombarde:",
       "opzioni": [
         "Lecco, Monza e Brianza, Bergamo",
         "Como, Lecco, Bergamo",
@@ -2867,7 +2867,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "La provincia di Pavia non confina con…",
+      "testo": "* La provincia di Pavia non confina con…",
       "opzioni": [
         "Piemonte",
         "Emilia Romagna",
@@ -2877,7 +2877,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "La denominazione-destinazione della A21 (Autostrada dei Vini)",
+      "testo": "* La denominazione-destinazione della A21 (Autostrada dei Vini)",
       "opzioni": [
         "Torino, Piacenza, Brescia",
         "Torino, Lodi, Brescia",
@@ -2887,7 +2887,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quale città è più vicina al Confine di Stato?",
+      "testo": "* Quale città è più vicina al Confine di Stato?",
       "opzioni": [
         "Como",
         "Varese",
@@ -2897,7 +2897,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quali di questi paesi NON ha la stazione delle ferrovie dello stato?",
+      "testo": "* Quali di questi paesi NON ha la stazione delle ferrovie dello stato?",
       "opzioni": [
         "Varese",
         "Saronno",
@@ -2907,7 +2907,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Su quale Lago si affaccia Sarnico?",
+      "testo": "* Su quale Lago si affaccia Sarnico?",
       "opzioni": [
         "Lago di Idro",
         "Lago di Garda",
@@ -2917,7 +2917,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Importante città dell’Oltrepò pavese",
+      "testo": "* Importante città dell’Oltrepò pavese",
       "opzioni": [
         "Voghera",
         "Suzzara",
@@ -2927,7 +2927,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Dove si trova il Castello di San Gaudenzio",
+      "testo": "* Dove si trova il Castello di San Gaudenzio",
       "opzioni": [
         "Cervesina",
         "Belgioioso",
@@ -2937,7 +2937,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Sabbioneta NON è:",
+      "testo": "* Sabbioneta NON è:",
       "opzioni": [
         "Una città romana",
         "In Provincia di Mantova",
@@ -2947,7 +2947,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Abbiategrasso è sulla linea ferroviaria:",
+      "testo": "* Abbiategrasso è sulla linea ferroviaria:",
       "opzioni": [
         "Milano-Novara",
         "Milano-Mortara",
@@ -2957,7 +2957,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Da quale Fiume è attraversato Pizzighettone?",
+      "testo": "* Da quale Fiume è attraversato Pizzighettone?",
       "opzioni": [
         "Serio",
         "Adda",
@@ -2967,7 +2967,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Su quale linea ferroviaria si trova Desenzano del Garda?",
+      "testo": "* Su quale linea ferroviaria si trova Desenzano del Garda?",
       "opzioni": [
         "Milano-Novara-torino",
         "Milano-Brescia-Venezia",
@@ -2977,7 +2977,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Dove si trova Gargnano?",
+      "testo": "* Dove si trova Gargnano?",
       "opzioni": [
         "Sul Lago di Garda",
         "Sul Lago Maggiore",
@@ -2987,7 +2987,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Per cosa è famosa Cremona?",
+      "testo": "* Per cosa è famosa Cremona?",
       "opzioni": [
         "Armi",
         "Manufatti in Legno",
@@ -2997,7 +2997,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quale di questi Fiumi non interessa le province di Brescia e Cremona?",
+      "testo": "* Quale di questi Fiumi non interessa le province di Brescia e Cremona?",
       "opzioni": [
         "Adda",
         "Ticino",
@@ -3007,7 +3007,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quale linea collega Milano a Sesto San Giovanni?",
+      "testo": "* Quale linea collega Milano a Sesto San Giovanni?",
       "opzioni": [
         "MM 1, Rossa",
         "FFSS Milano - Treviglio",
@@ -3017,7 +3017,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quale di questi laghi non è in Lombardia?",
+      "testo": "* Quale di questi laghi non è in Lombardia?",
       "opzioni": [
         "Molveno",
         "Iseo",
@@ -3027,7 +3027,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quale strada Provinciale passa vicino al Comune di Chieve?",
+      "testo": "* Quale strada Provinciale passa vicino al Comune di Chieve?",
       "opzioni": [
         "SP 234 Codognese",
         "SP 415 Paullese",
@@ -3037,7 +3037,7 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "Quale strada Provinciale passa nel Comune di Chieve?",
+      "testo": "* Quale strada Provinciale passa nel Comune di Chieve?",
       "opzioni": [
         "SS 237 del Caffaro",
         "SP 235 di Orzinuovi",
@@ -4797,7 +4797,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "(Ai sensi del R.R. 2014) chi detta norme in materia di servizio Taxi?",
+      "testo": "* Ai sensi del R.R. 2014 chi detta norme in materia di servizio Taxi?",
       "opzioni": [
         "Provincia",
         "Regione",
@@ -4817,7 +4817,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Qual è la tariffa predeterminata Aeroporto Malpensa - Fiera Milano Rho?",
+      "testo": "* Qual è la tariffa predeterminata Aeroporto Malpensa - Fiera Milano Rho?",
       "opzioni": [
         "92 €",
         "95 €",
@@ -4827,7 +4827,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Qual è l’importo minimo per le corse in partenza da un Aeroporto?",
+      "testo": "* Qual è l’importo minimo per le corse in partenza da un Aeroporto?",
       "opzioni": [
         "15,40 €",
         "16,00 €",
@@ -4837,7 +4837,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Fuori servizio, il tassista può fare una corsa?",
+      "testo": "* Fuori servizio, il tassista può fare una corsa?",
       "opzioni": [
         "Sì sempre",
         "Sì, se necessario ( Conveniente)",
@@ -4847,7 +4847,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Per l’NCC è obbligatorio rientrare in rimessa alla fine di ogni singolo servizio?",
+      "testo": "* Per l’NCC è obbligatorio rientrare in rimessa alla fine di ogni singolo servizio?",
       "opzioni": [
         "Sì, sempre",
         "No, mai",
@@ -4857,7 +4857,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Quali sono i limiti territoriali per il prelevamento e la destinazione per gli NCC?",
+      "testo": "* Quali sono i limiti territoriali per il prelevamento e la destinazione per gli NCC?",
       "opzioni": [
         "Nessun limite",
         "Prelevamento nella Provincia e nessun limite per la destinazione",
@@ -4867,7 +4867,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "In caso di decesso del titolare, a chi può essere trasferita la Licenza Taxi?",
+      "testo": "* In caso di decesso del titolare, a chi può essere trasferita la Licenza Taxi?",
       "opzioni": [
         "Ad uno degli eredi appartenenti al nucleo familiare",
         "A chiunque abbia i requisiti",
@@ -4877,7 +4877,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Chi stabilisce forma e dimensioni della scritta servizio pubblico che ogni taxi deve avere?",
+      "testo": "* Chi stabilisce forma e dimensioni della scritta servizio pubblico che ogni taxi deve avere?",
       "opzioni": [
         "Regione",
         "Comune",
@@ -4887,7 +4887,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Il titolare può conferire la licenza a organismi cooperativi?",
+      "testo": "* Il titolare può conferire la licenza a organismi cooperativi?",
       "opzioni": [
         "Sì, dietro autorizzazione del Sindaco",
         "No",
@@ -4897,7 +4897,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Per quanto determinato dall’art 3 L. Reg. 15/04/95 dove deve essere ubicata la sede e almeno una rimessa dei veicoli al servizio NCC?",
+      "testo": "* Per quanto determinato dall’art 3 L. Reg. 15/04/95 dove deve essere ubicata la sede e almeno una rimessa dei veicoli al servizio NCC?",
       "opzioni": [
         "All’interno della Regione",
         "Nell’area Comunale o Sovracomunale ove sia compreso il comune che ha rilasciato l’autorizzazione",
@@ -4907,7 +4907,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Da chi viene disposto il ritiro cautelativo della licenza o dell’autorizzazione?",
+      "testo": "* Da chi viene disposto il ritiro cautelativo della licenza o dell’autorizzazione?",
       "opzioni": [
         "Comune",
         "Provincia",
@@ -4917,7 +4917,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Quando può essere, tra l’altro, disposto il ritiro della Licenza?",
+      "testo": "* Quando può essere, tra l’altro, disposto il ritiro della Licenza?",
       "opzioni": [
         "Per manomissione del tassametro",
         "Per inosservanza del turno di servizio",
@@ -4927,7 +4927,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Quanti collaboratori familiari può avere un titolare di licenza Taxi?",
+      "testo": "* Quanti collaboratori familiari può avere un titolare di licenza Taxi?",
       "opzioni": [
         "Uno soltanto",
         "Massimo Due",
@@ -4937,7 +4937,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Perché le Regioni delegano ai Comuni il Regolamento del Servizio Pubblico Non di Linea?",
+      "testo": "* Perché le Regioni delegano ai Comuni il Regolamento del Servizio Pubblico Non di Linea?",
       "opzioni": [
         "Per decentralizzare il Servizio",
         "Per meglio integrarlo con gli altri modi di trasporto",
@@ -4947,7 +4947,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Quale Ente revoca la Licenza Taxi?",
+      "testo": "* Quale Ente revoca la Licenza Taxi?",
       "opzioni": [
         "Comune",
         "Provincia",
@@ -4957,7 +4957,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Requisiti necessari per iniziare l’attività:",
+      "testo": "* Requisiti necessari per iniziare l’attività:",
       "opzioni": [
         "Iscrizione al ruolo",
         "Patente D",
@@ -4967,7 +4967,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "L’importo a tassametro è sempre omnicomprensivo?",
+      "testo": "* L’importo a tassametro è sempre omnicomprensivo?",
       "opzioni": [
         "Sì",
         "Sì, salvo pedaggi autostradali",
@@ -4977,7 +4977,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "E’ ammesso il cumulo di più autorizzazioni NCC in capo alla stessa persona?",
+      "testo": "* E’ ammesso il cumulo di più autorizzazioni NCC in capo alla stessa persona?",
       "opzioni": [
         "No, mai",
         "Sì, sempre",
@@ -4987,7 +4987,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "E’ consentito al titolare di Licenza Taxi l’uso di auto sostitutiva?",
+      "testo": "* E’ consentito al titolare di Licenza Taxi l’uso di auto sostitutiva?",
       "opzioni": [
         "No, mai",
         "Sì, se l’auto è guasta (minimo 3 giorni max 120 giorni all’anno)",
@@ -4997,7 +4997,7 @@
     },
     {
       "categoria": "Normativa Statale e Regionale",
-      "testo": "Ai sensi del RR 2014 chi certifica l'omologazione del Tassametro?",
+      "testo": "* Ai sensi del RR 2014 chi certifica l'omologazione del Tassametro?",
       "opzioni": [
         "I Comuni capoluogo di Provincia",
         "La Regione",
@@ -6357,7 +6357,7 @@
     },
     {
       "categoria": "Regolamento e Comportamento",
-      "testo": "Dove vanno posizionate le tariffe?",
+      "testo": "* Dove vanno posizionate le tariffe?",
       "opzioni": [
         "Dietro al sedile anteriore lato passeggero",
         "Di fianco al tassametro",
@@ -6367,7 +6367,7 @@
     },
     {
       "categoria": "Regolamento e Comportamento",
-      "testo": "Da dove deve iniziare il Servizio Taxi? (art.37 Regolamento di Bacino 2014)",
+      "testo": "* Da dove deve iniziare il Servizio Taxi? (art.37 Regolamento di Bacino 2014)",
       "opzioni": [
         "Dal Bacino di Traffico del Sistema Aeroportuale",
         "Dalla Provincia del Comune che ha rilasciato la Licenza",
@@ -6947,7 +6947,7 @@
     },
     {
       "categoria": "Fuori Dispensa",
-      "testo": "(Ai sensi del RR 2014) chi detta norme in materia di servizio Taxi?",
+      "testo": "Ai sensi del RR 2014 chi detta norme in materia di servizio Taxi?",
       "opzioni": [
         "Provincia",
         "Regione",
