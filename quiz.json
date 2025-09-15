@@ -816,6 +816,16 @@
       "risposta_corretta": 2
     },
     {
+      "categoria": "Inglese",
+      "testo": "* Have yo got any luggage?",
+      "opzioni": [
+        "(yes) I've got some",
+        "I've got any",
+        "I don't some"
+      ],
+      "risposta_corretta": 0
+    },
+    {
       "categoria": "Geografia",
       "testo": "Benaco è il nome di quale Lago:",
       "opzioni": [
@@ -3027,21 +3037,11 @@
     },
     {
       "categoria": "Geografia",
-      "testo": "* Quale strada Provinciale passa vicino al Comune di Chieve?",
+      "testo": "* Quale strada Provinciale passa vicinissimo al Comune di Chieve?",
       "opzioni": [
         "SP 234 Codognese",
-        "SP 415 Paullese",
-        "SS 36 Lago di Como e dello Spluga"
-      ],
-      "risposta_corretta": 1
-    },
-    {
-      "categoria": "Geografia",
-      "testo": "* Quale strada Provinciale passa nel Comune di Chieve?",
-      "opzioni": [
-        "SS 237 del Caffaro",
         "SP 235 di Orzinuovi",
-        "SS 12 Abetone - Brennero"
+        "SS 36 Lago di Como e dello Spluga"
       ],
       "risposta_corretta": 1
     },
@@ -6967,23 +6967,23 @@
     },
     {
       "categoria": "Fuori Dispensa",
-      "testo": "Quale strada Provinciale passa vicino al Comune di Chieve?",
+      "testo": "Quale strada Provinciale passa vicinissimo al Comune di Chieve?",
       "opzioni": [
         "SP 234 Codognese",
-        "SP 415 Paullese",
+        "SP 235 di Orzinuovi",
         "SS 36 Lago di Como e dello Spluga"
       ],
       "risposta_corretta": 1
     },
     {
       "categoria": "Fuori Dispensa",
-      "testo": "Quale strada Provinciale passa nel Comune di Chieve?",
+      "testo": "Have yo got any luggage?",
       "opzioni": [
-        "SS 237 del Caffaro",
-        "SP 235 di Orzinuovi",
-        "SS 12 Abetone - Brennero"
+        "(yes) I've got some",
+        "I've got any",
+        "I don't some"
       ],
-      "risposta_corretta": 1
+      "risposta_corretta": 0
     },
     {
       "categoria": "Francese",

@@ -78,6 +78,7 @@ Inglese | Kate and Jenny are sisters and Bill is ………. brother. | Them | Th
 Inglese | I don’t like tests. Neither ………. | Do I | I do | I don’t | 1
 Inglese | Is that your car? No, ………. | Is not | It isn’t | It is not | 2
 Inglese | Good afternoon! Excelsior Hotel. Can I ………. you? | Attend | Assist | Help | 3
+Inglese | * Have yo got any luggage? | (yes) I've got some | I've got any | I don't some | 1
 Geografia | Benaco è il nome di quale Lago: | Lago d'Iseo | Lago Maggiore | Lago di Garda | 3
 Geografia | Sebino è il nome di quale Lago: | Lago di Garda | Lago d'Iseo | Lago di Como | 2
 Geografia | La Val Veddasca, la Val Tresa, la Valcuvia e Valganna si trovano: | Nella provincia di Sondrio | Nella provincia di Brescia | Nella provincia di Varese | 3
@@ -299,8 +300,7 @@ Geografia | * Per cosa è famosa Cremona? | Armi | Manufatti in Legno | Strument
 Geografia | * Quale di questi Fiumi non interessa le province di Brescia e Cremona? | Adda | Ticino | Oglio | 2
 Geografia | * Quale linea collega Milano a Sesto San Giovanni? | MM 1, Rossa | FFSS Milano - Treviglio | FNM Milano - Meda | 1
 Geografia | * Quale di questi laghi non è in Lombardia? | Molveno | Iseo | Idro | 1
-Geografia | * Quale strada Provinciale passa vicino al Comune di Chieve? | SP 234 Codognese | SP 415 Paullese | SS 36 Lago di Como e dello Spluga | 2
-Geografia | * Quale strada Provinciale passa nel Comune di Chieve? | SS 237 del Caffaro | SP 235 di Orzinuovi | SS 12 Abetone - Brennero | 2
+Geografia | * Quale strada Provinciale passa vicinissimo al Comune di Chieve? | SP 234 Codognese | SP 235 di Orzinuovi | SS 36 Lago di Como e dello Spluga | 2
 Normativa Statale e Regionale | Ai sensi dell’art. 2 della legge 15 gennaio 1992 N. 21, chi stabilisce sanzioni amministrative per l’inosservanza dell’obbligo del servizio taxi nelle aree comunali o comprensoriali? | Le regioni | Le camere di Commercio Industria Artigianato e Agricoltura | Gli organi di Polizia Stradale | 1
 Normativa Statale e Regionale | L’art. 14 “disposizioni particolari” della legge 15 gennaio 1992 n. 21 regolamenta tra l’altro: | Le sanzioni amministrative per l’inosservanza delle tariffe del servizio taxi | L’accessibilità per i servizi taxi e autonoleggio a tutti i soggetti portatori di handicap | L’accesso al carico negli scali aeroportuali | 2
 Normativa Statale e Regionale | Il titolare di licenza taxi può essere sostituito, ai sensi dell’art. 10 della legge 15 gennaio 1992 n. 21, per motivi di salute o inabilità temporanea: | Da altro titolare di licenza taxi di altro comune | Da persone iscritte nel ruolo di cui art. 6 della legge 15 gennaio 1992 n. 21 | Da persone designate dal Prefetto | 2
@@ -693,8 +693,8 @@ Fuori Dispensa | Quale linea collega Milano a Sesto San Giovanni? | MM 1, Rossa 
 Fuori Dispensa | Quale di questi laghi non è in Lombardia? | Molveno | Iseo | Idro | 1
 Fuori Dispensa | Ai sensi del RR 2014 chi detta norme in materia di servizio Taxi? | Provincia | Regione | Prefettura | 2
 Fuori Dispensa | Ai sensi del RR 2014 chi certifica l'omologazione del Tassametro? | I Comuni capoluogo di Provincia | La Regione | L'autorità di Polizia | 1 
-Fuori Dispensa | Quale strada Provinciale passa vicino al Comune di Chieve? | SP 234 Codognese | SP 415 Paullese | SS 36 Lago di Como e dello Spluga | 2
-Fuori Dispensa | Quale strada Provinciale passa nel Comune di Chieve? | SS 237 del Caffaro | SP 235 di Orzinuovi | SS 12 Abetone - Brennero | 2 
+Fuori Dispensa | Quale strada Provinciale passa vicinissimo al Comune di Chieve? | SP 234 Codognese | SP 235 di Orzinuovi | SS 36 Lago di Como e dello Spluga | 2
+Fuori Dispensa | Have yo got any luggage? | (yes) I've got some | I've got any | I don't some | 1
 Francese | Je suis canadienne; j’habite ……… Toronto. | à | De | Pour | 1
 Francese | Mes parents ont ………. yeux bleus | Les | Des | L' | 1
 Francese | Nous arrivons ………… Russie où il fait très froid. | à | En | De | 3
